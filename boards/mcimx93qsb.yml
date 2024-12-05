@@ -8,7 +8,7 @@ name: 'MCIMX93-QSB'
 display_name: 'i.MX 93 Quick Start Board'
 overview: ''
 href: ''
-image: 'MIR/marketing_data/1.0/boards/images/mcimx93qsb.png'
+image: 'tool_data/boards/images/mcimx93qsb.png'
 parts: 
   - device: 'MIMX9322'
     part_name: 'MIMX9322CVXXM'

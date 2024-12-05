@@ -8,7 +8,7 @@ name: 'MIMXRT700-EVK'
 display_name: 'i.MX RT700 Evaluation Kit'
 overview: '<p>MIMXRT700-EVK supports development for the MIMXRT798, MIMXRT758 and MIMXRT735 products and its features make it ideal for portable HMI applications.&nbsp;<br></p>'
 href: ''
-image: 'MIR/marketing_data/1.0/boards/images/mimxrt700evk.png'
+image: 'tool_data/boards/images/mimxrt700evk.png'
 parts: 
   - device: 'MIMXRT798S'
     part_name: 'MIMXRT798SGFOA'

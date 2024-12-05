@@ -8,7 +8,7 @@ name: 'MIMXRT1170-EVKB'
 display_name: 'i.MX RT1170 Evaluation Kit'
 overview: ''
 href: ''
-image: 'MIR/marketing_data/1.0/boards/images/evkbmimxrt1170.png'
+image: 'tool_data/boards/images/evkbmimxrt1170.png'
 parts: 
   - device: 'MIMXRT1176'
     part_name: 'MIMXRT1176DVMAA'

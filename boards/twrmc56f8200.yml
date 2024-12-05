@@ -8,7 +8,7 @@ name: 'TWR-MC56F8200'
 display_name: 'Tower System Module for MC56F826xx and MC56F827xx'
 overview: ''
 href: 'https://www.nxp.com/pip/TWR-56F8200'
-image: 'MIR/marketing_data/1.0/boards/images/twrmc56f8200.png'
+image: 'tool_data/boards/images/twrmc56f8200.png'
 parts: 
   - device: 'MC56F82748'
     part_name: 'MC56F82748VLH'

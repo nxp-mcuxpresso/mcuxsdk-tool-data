@@ -8,7 +8,7 @@ name: 'FRDM-K32L3A6'
 display_name: 'Freedom Development Platform for K32 L3 MCUs'
 overview: 'The NXP FRDM-K32L3A6 is a development board for the Kinetis K32L3A60 72 MHz 32-bit ARM® Cortex®-M4 and ARM® Cortex®-M0P MCUs'
 href: 'https://www.nxp.com/pip/FRDM-K32L3A6'
-image: 'MIR/marketing_data/1.0/boards/images/frdmk32l3a6.png'
+image: 'tool_data/boards/images/frdmk32l3a6.png'
 parts: 
   - device: 'K32L3A60'
     part_name: 'K32L3A60VPJ1A'

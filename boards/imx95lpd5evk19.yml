@@ -8,7 +8,7 @@ name: 'IMX95LPD5EVK-19'
 display_name: 'i.MX95LPD5 Evaluation Kit 19x19'
 overview: ''
 href: ''
-image: 'MIR/marketing_data/1.0/boards/images/imx95lpd5evk19.png'
+image: 'tool_data/boards/images/imx95lpd5evk19.png'
 parts: 
   - device: 'MIMX9596'
     part_name: 'MIMX9596AVZXN'

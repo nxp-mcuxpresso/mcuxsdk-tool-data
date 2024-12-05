@@ -8,7 +8,7 @@ name: 'MCX-N5XX-EVK'
 display_name: 'N5xx Evaluation kit'
 overview: '<p>The NXP N5xx-EVK is a development board for the N5xx 150 MHz Arm® Dual Cortex-M33 TrustZone® microcontroller, which is for Industrial and Consumer IoT Applications.<br></p>'
 href: ''
-image: 'MIR/marketing_data/1.0/boards/images/mcxn5xxevk.png'
+image: 'tool_data/boards/images/mcxn5xxevk.png'
 parts: 
   - device: 'MCXN547'
     part_name: 'MCXN547VDF'

@@ -8,7 +8,7 @@ name: 'FRDM-MCXN947'
 display_name: 'FRDM-MCXN947'
 overview: '<p>The NXP FRDM-MCXN947 is a development board for the N94x 150 MHz Arm® Cortex-M33 TrustZone® microcontroller, which is for Industrial and Consumer IoT Applications.<br></p>'
 href: ''
-image: 'MIR/marketing_data/1.0/boards/images/frdmmcxn947.png'
+image: 'tool_data/boards/images/frdmmcxn947.png'
 parts: 
   - device: 'MCXN947'
     part_name: 'MCXN947VDF'
