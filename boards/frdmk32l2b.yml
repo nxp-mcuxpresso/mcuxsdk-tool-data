@@ -8,7 +8,7 @@ name: 'FRDM-K32L2B'
 display_name: 'Freedom Development Platform for K32 L2B MCUs'
 overview: 'The FRDM-K32L2B3 is supported by a range of NXP® and third-party development software.'
 href: 'https://www.nxp.com/pip/FRDM-K32L2B3'
-image: 'MIR/marketing_data/1.0/boards/images/frdmk32l2b.png'
+image: 'tool_data/boards/images/frdmk32l2b.png'
 parts: 
   - device: 'K32L2B31A'
     part_name: 'K32L2B31VLH0A'

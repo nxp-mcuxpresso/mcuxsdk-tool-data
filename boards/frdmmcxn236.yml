@@ -8,7 +8,7 @@ name: 'FRDM-MCXN236'
 display_name: 'FRDM-MCXN236'
 overview: '<p>The NXP FRDM-MCXN236 is a development board for the N23x 150 MHz Arm® Cortex-M33 TrustZone® microcontroller, which is for Industrial and Consumer IoT Applications.<br></p>'
 href: ''
-image: 'MIR/marketing_data/1.0/boards/images/frdmmcxn236.png'
+image: 'tool_data/boards/images/frdmmcxn236.png'
 parts: 
   - device: 'MCXN236'
     part_name: 'MCXN236VDF'

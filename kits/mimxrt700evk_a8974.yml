@@ -8,7 +8,7 @@ name: 'MIMXRT700-EVK-A8974'
 display_name: 'i.MX RT700 evaluation kit with FRDM-STBI-A8974 sensor shield board having FXLS8974CF ultra-low power motion wakeup sensor for Industrial, Medical IoT Applications.'
 overview: ''
 href: ''
-image: 'MIR/marketing_data/1.0/kits/images/mimxrt700evk_a8974.png'
+image: 'tool_data/kits/images/mimxrt700evk_a8974.png'
 full_name: 'MIMXRT700-EVK with A8974'
 board: 'mimxrt700evk'
 accessories: 

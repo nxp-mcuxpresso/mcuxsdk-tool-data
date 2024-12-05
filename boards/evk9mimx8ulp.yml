@@ -8,7 +8,7 @@ name: 'EVK9-MIMX8ULP'
 display_name: '9x9 Evaluation Kit for the i.MX 8ULP Applications Processor'
 overview: ''
 href: ''
-image: 'MIR/marketing_data/1.0/boards/images/evk9mimx8ulp.png'
+image: 'tool_data/boards/images/evk9mimx8ulp.png'
 parts: 
   - device: 'MIMX8UD5'
     part_name: 'MIMX8UD5DVK08'

@@ -8,7 +8,7 @@ name: 'FRDM-MCXC444'
 display_name: 'FRDM-MCXC444'
 overview: '<p>The FRDM-MCXC444 is supported by a range of NXP® and third-party development software.<br></p>'
 href: ''
-image: 'MIR/marketing_data/1.0/boards/images/frdmmcxc444.png'
+image: 'tool_data/boards/images/frdmmcxc444.png'
 parts: 
   - device: 'MCXC444'
     part_name: 'MCXC444VLH'

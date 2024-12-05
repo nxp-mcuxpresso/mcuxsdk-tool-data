@@ -8,7 +8,7 @@ name: 'EVK-MIMXRT1015'
 display_name: 'i.MX RT1015 Evaluation Kit'
 overview: 'The NXP MIMXRT1015-EVK is a development board for the i.MX MIMXRT1015 500 MHz 32-bit ARM® Cortex®-M7 MCUs.'
 href: 'https://www.nxp.com/pip/MIMXRT1015-EVK'
-image: 'MIR/marketing_data/1.0/boards/images/evkmimxrt1015.png'
+image: 'tool_data/boards/images/evkmimxrt1015.png'
 parts: 
   - device: 'MIMXRT1015'
     part_name: 'MIMXRT1015DAF5A'

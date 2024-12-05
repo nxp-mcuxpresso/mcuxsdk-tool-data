@@ -8,7 +8,7 @@ name: 'K32W148-EVK'
 display_name: 'K32W148 Evaluation Kit for Bluetooth LE, IEEE 802.15.4, Thread, Matter and Zigbee'
 overview: ''
 href: 'https://www.nxp.com/pip/K32W148-EVK'
-image: 'MIR/marketing_data/1.0/boards/images/k32w148evk.png'
+image: 'tool_data/boards/images/k32w148evk.png'
 parts: 
   - device: 'K32W1480'
     part_name: 'K32W1480VFTA'

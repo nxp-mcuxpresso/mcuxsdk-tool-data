@@ -8,7 +8,7 @@ name: 'RD-RW612-BGA'
 display_name: 'RD-RW612-BGA'
 overview: ''
 href: ''
-image: 'MIR/marketing_data/1.0/boards/images/rdrw612bga.png'
+image: 'tool_data/boards/images/rdrw612bga.png'
 parts: 
   - device: 'RW612'
     part_name: 'RW612ETA2I'

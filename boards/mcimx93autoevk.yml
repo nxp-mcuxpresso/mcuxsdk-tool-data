@@ -8,7 +8,7 @@ name: 'MCIMX93AUTO-EVK'
 display_name: 'i.MX93 Automotive EVK'
 overview: ''
 href: ''
-image: 'MIR/marketing_data/1.0/boards/images/mcimx93autoevk.png'
+image: 'tool_data/boards/images/mcimx93autoevk.png'
 parts: 
   - device: 'MIMX9352'
     part_name: 'MIMX9352AVTXM'

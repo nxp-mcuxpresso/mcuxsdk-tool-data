@@ -8,7 +8,7 @@ name: 'EVK-MIMX8MP'
 display_name: 'EVK-MIMX8MP'
 overview: '<p>The i.MX 8M Plus family of boards provides a powerful and flexible development system for NXP®''s Cortex-M7 MCUs.</p>'
 href: 'https://www.nxp.com/pip/8MPLUSLPD4-EVK'
-image: 'MIR/marketing_data/1.0/boards/images/evkmimx8mp.png'
+image: 'tool_data/boards/images/evkmimx8mp.png'
 parts: 
   - device: 'MIMX8ML8'
     part_name: 'MIMX8ML8DVNLZ'
