@@ -1,0 +1,11 @@
+NXP Software Content Register
+
+Package: mcuxsdk-tool-data
+Version: 24.12.00-pvw2
+Outgoing License: BSD-3-Clause
+License File: LICENSE
+Type of content: yml description files, png image files
+Description and comments: MCUXpresso SDK data repo for tool support.
+Release Location: https://github.com/nxp-mcuxpresso/mcuxsdk-tool-data
+Origin:
+      NXP (BSD-3-Clause)
