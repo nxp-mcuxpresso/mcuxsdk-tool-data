@@ -11,6 +11,6 @@ overview: 'The NXP FRDM-MCXW23 is a development board for the MCXW23 32 MHz ArmÂ
 href: ''
 image: 'tool_data/boards/images/frdmmcxw23.png'
 parts: 
-  - device: 'MCXW236B'
+  - device: 'MCXW236'
     part_name: 'MCXW236BIHNAR'
 kits: [ ]
