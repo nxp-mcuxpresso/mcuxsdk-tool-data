@@ -12,5 +12,5 @@ href: ''
 image: 'tool_data/boards/images/imx95lp4xevk15.png'
 parts: 
   - device: 'MIMX9596'
-    part_name: 'MIMX9596AVTXN'
+    part_name: 'MIMX9596CVTXN'
 kits: [ ]
