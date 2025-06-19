@@ -7,7 +7,7 @@
 
 name: 'MKM14ZA5'
 display_name: 'Kinetis KM14-50 MHz Mainstream Precision Metrology Microcontrollers based on Arm® Cortex®-M0+'
-overview: 'KM1x MCUs enable single-chip one-, two-, and three-phase electricity meters, as well as flow meter and other precision measurement applications.'
+overview: '<p>KM1x MCUs enable single-chip one-, two-, and three-phase electricity meters, as well as flow meter and other precision measurement applications. </p>'
 href: ''
 image: ''
 vendor: 'NXP'

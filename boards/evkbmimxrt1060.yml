@@ -7,13 +7,10 @@
 
 name: 'MIMXRT1060-EVKB'
 display_name: 'i.MX RT1060 Evaluation Kit'
-overview: 'The i.MX RT1060 EVK is a 4-layer through-hole USB-powered PCB. At its heart lies the i.MX RT1060 crossover MCU, featuring NXP’s advanced implementation of the Arm® Cortex®-M7 core. This core operates at speeds up to 600 MHz to provide high CPU performance and excellent real-time response. Support for FreeRTOS™ available within the MCUXpresso SDK. The i.MX RT1060 Evaluation Kit is supported by Zephyr™ OS for developing the Internet of Things with a free, open-source embedded operating system. Click here to learn more. Rev B includes M.2 and audio interfaces.'
+overview: '<p> The i.MX RT1060 EVK is a 4-layer through-hole USB-powered PCB. At its heart lies the i.MX RT1060 crossover MCU, featuring NXP’s advanced implementation of the Arm<sup>®</sup> Cortex<sup>®</sup>-M7 core. This core operates at speeds up to 600 MHz to provide high CPU performance and excellent real-time response. </p><p> Support for FreeRTOS<sup>™</sup> available within the MCUXpresso SDK. </p><p> The i.MX RT1060 Evaluation Kit is supported by Zephyr<sup>™</sup> OS for developing the Internet of Things with a free, open-source embedded operating system. Click <a href="https://docs.zephyrproject.org/latest/boards/arm/mimxrt1060_evk/doc/index.html?highlight=mimxrt1060_evk" target="_blank">here</a> to learn more. </p><p>Rev B includes M.2 and audio interfaces.</p>'
 href: 'https://www.nxp.com/pip/MIMXRT1060-EVK'
 image: 'tool_data/boards/images/evkbmimxrt1060.png'
 parts: 
   - device: 'MIMXRT1062'
     part_name: 'MIMXRT1062DVL6B'
-kits: 
-  - id: 'evkbmimxrt1060_agm01'
-  - id: 'evkbmimxrt1060_om13588'
-  - id: 'evkbmimxrt1060_om13790host'
+kits: [ ]

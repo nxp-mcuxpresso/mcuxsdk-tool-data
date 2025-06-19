@@ -7,12 +7,10 @@
 
 name: 'MCX-N9XX-EVK'
 display_name: 'N9xx Evaluation kit'
-overview: 'The NXP N9xx-EVK is a development board for the N9xx 150 MHz Arm® Dual Cortex-M33 TrustZone® microcontroller, which is for Industrial and Consumer IoT Applications.'
+overview: '<p>The NXP N9xx-EVK is a development board for the N9xx 150 MHz Arm® Dual Cortex-M33 TrustZone® microcontroller, which is for Industrial and Consumer IoT Applications.<br></p>'
 href: ''
 image: 'tool_data/boards/images/mcxn9xxevk.png'
 parts: 
   - device: 'MCXN947'
     part_name: 'MCXN947VDF'
-kits: 
-  - id: 'mcxn9xxevk_om13790host'
-  - id: 'mcxn9xxevk_a8974'
+kits: [ ]

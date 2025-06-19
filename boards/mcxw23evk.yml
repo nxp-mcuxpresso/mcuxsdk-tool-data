@@ -7,7 +7,7 @@
 
 name: 'MCXW23-EVK'
 display_name: 'Evaluation Kit for MCXW23 MCU'
-overview: 'The NXP MCXW23-EVK is a development board for the MCXW23 32 MHz Arm®  Cortex-M33 microcontroller.'
+overview: '<p>The NXP MCXW23-EVK is a development board for the MCXW23 32 MHz Arm®&nbsp; Cortex-M33 microcontroller.</p>'
 href: ''
 image: 'tool_data/boards/images/mcxw23evk.png'
 parts: 

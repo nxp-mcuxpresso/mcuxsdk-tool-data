@@ -7,11 +7,10 @@
 
 name: 'KW45B41Z-EVK'
 display_name: 'KW45 Evaluation Kit for Bluetooth LE'
-overview: 'The KW45B41Z EVK is an evaluation kit for KW45 MCUs with 2.4 GHz Bluetooth Low Energy and generic FSK wireless connectivity and CAN/LIN connectivity. The KW45''s highly sensitive, optimized 2.4 GHz radio features a PCB F-antenna which can be bypassed to test via SMA connection. The board includes an MCU-Link debug probe, CAN and LIN transceivers, buttons, switches, LEDs and integrated sensors, Arduino shield connectors, a MikroE Click connector and other headers.'
+overview: '<p>The KW45B41Z EVK is an evaluation kit for KW45 MCUs with 2.4 GHz Bluetooth Low Energy and generic FSK wireless connectivity and CAN/LIN connectivity. The KW45''s highly sensitive, optimized 2.4 GHz radio features a PCB F-antenna which can be bypassed to test via SMA connection. The board includes an MCU-Link debug probe, CAN and LIN transceivers, buttons, switches, LEDs and integrated sensors, Arduino shield connectors, a MikroE Click connector and other headers.</p>'
 href: 'https://www.nxp.com/pip/KW45B41Z-EVK'
 image: 'tool_data/boards/images/kw45b41zevk.png'
 parts: 
   - device: 'KW45B41Z83'
     part_name: 'KW45B41Z83AFTA'
-kits: 
-  - id: 'kw45b41zevk_a8964'
+kits: [ ]

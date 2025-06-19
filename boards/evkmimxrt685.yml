@@ -13,6 +13,4 @@ image: 'tool_data/boards/images/evkmimxrt685.png'
 parts: 
   - device: 'MIMXRT685S'
     part_name: 'MIMXRT685SFVKB'
-kits: 
-  - id: 'evkmimxrt685_agm01'
-  - id: 'evkmimxrt685_om13790host'
+kits: [ ]

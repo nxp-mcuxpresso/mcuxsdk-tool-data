@@ -13,8 +13,4 @@ image: 'tool_data/boards/images/evkbimxrt1050.png'
 parts: 
   - device: 'MIMXRT1052'
     part_name: 'MIMXRT1052DVL6B'
-kits: 
-  - id: 'evkbimxrt1050_agm01'
-  - id: 'evkbimxrt1050_om13588'
-  - id: 'evkbimxrt1050_om13790host'
-  - id: 'evkmimxrt1050_agm01'
+kits: [ ]

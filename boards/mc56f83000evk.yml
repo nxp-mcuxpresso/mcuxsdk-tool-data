@@ -13,5 +13,4 @@ image: 'tool_data/boards/images/mc56f83000evk.png'
 parts: 
   - device: 'MC56F83789'
     part_name: 'MC56F83789VLL'
-kits: 
-  - id: 'mc56f83000evk_om13790host'
+kits: [ ]

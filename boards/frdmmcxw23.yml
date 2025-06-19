@@ -7,7 +7,7 @@
 
 name: 'FRDM-MCXW23'
 display_name: 'Freedom Development Platform for MCXW23 MCU'
-overview: 'The NXP FRDM-MCXW23 is a development board for the MCXW23 32 MHz Arm®  Cortex-M33 microcontroller.'
+overview: '<p>The NXP FRDM-MCXW23 is a development board for the MCXW23 32 MHz Arm®&nbsp; Cortex-M33 microcontroller.</p>'
 href: ''
 image: 'tool_data/boards/images/frdmmcxw23.png'
 parts: 

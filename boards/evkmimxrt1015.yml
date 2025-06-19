@@ -13,6 +13,4 @@ image: 'tool_data/boards/images/evkmimxrt1015.png'
 parts: 
   - device: 'MIMXRT1015'
     part_name: 'MIMXRT1015DAF5A'
-kits: 
-  - id: 'evkmimxrt1015_agm01'
-  - id: 'evkmimxrt1015_om13790host'
+kits: [ ]

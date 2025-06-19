@@ -13,7 +13,4 @@ image: 'tool_data/boards/images/evkbmimxrt1170.png'
 parts: 
   - device: 'MIMXRT1176'
     part_name: 'MIMXRT1176DVMAB'
-kits: 
-  - id: 'evkbmimxrt1170_agm01'
-  - id: 'evkbmimxrt1170_om13790host'
-  - id: 'evkbmimxrt1170_a8974'
+kits: [ ]

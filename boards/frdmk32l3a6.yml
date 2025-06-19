@@ -13,5 +13,4 @@ image: 'tool_data/boards/images/frdmk32l3a6.png'
 parts: 
   - device: 'K32L3A60'
     part_name: 'K32L3A60VPJ1A'
-kits: 
-  - id: 'frdmk32l3a6_agm01'
+kits: [ ]

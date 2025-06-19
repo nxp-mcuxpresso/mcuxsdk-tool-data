@@ -13,6 +13,4 @@ image: 'tool_data/boards/images/evkmimxrt1180.png'
 parts: 
   - device: 'MIMXRT1189'
     part_name: 'MIMXRT1189CVM8C'
-kits: 
-  - id: 'evkmimxrt1180_a8974'
-  - id: 'evkmimxrt1180_om13790host'
+kits: [ ]

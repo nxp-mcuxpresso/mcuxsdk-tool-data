@@ -7,7 +7,7 @@
 
 name: 'FRDM-MCXA346'
 display_name: 'FRDM-MCXA346'
-overview: 'The NXP FRDM-MCXA346 is a development board for the MCXA346 180MHz Arm®  Cortex-M33 microcontroller.'
+overview: '<p>The NXP FRDM-MCXA346 is a development board for the MCXA346 180MHz Arm®&nbsp; Cortex-M33 microcontroller.<br></p>'
 href: ''
 image: 'tool_data/boards/images/frdmmcxa346.png'
 parts: 

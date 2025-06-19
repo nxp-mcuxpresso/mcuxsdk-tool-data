@@ -13,9 +13,4 @@ image: 'tool_data/boards/images/frdmke15z.png'
 parts: 
   - device: 'MKE15Z7'
     part_name: 'MKE15Z256VLL7'
-kits: 
-  - id: 'frdmke15z_dp300x'
-  - id: 'frdmke15z_dp5004'
-  - id: 'frdmke15z_pa7250'
-  - id: 'frdmke15z_pd7250'
-  - id: 'frdmke15z_nmh1000'
+kits: [ ]

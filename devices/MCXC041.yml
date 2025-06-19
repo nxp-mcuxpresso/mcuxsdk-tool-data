@@ -7,7 +7,7 @@
 
 name: 'MCXC041'
 display_name: 'The MCXC041 is a general purpose ultra-low-power MCU family, providing additional memory, communications and analog peripheral.'
-overview: 'The MCXC041 is a general purpose ultra-low-power MCU family, providing additional memory, communications and analog peripheral.'
+overview: '<p>The MCXC041 is a general purpose ultra-low-power MCU family, providing additional memory, communications and analog peripheral.<br></p>'
 href: ''
 image: ''
 vendor: 'NXP'

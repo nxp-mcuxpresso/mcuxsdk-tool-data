@@ -7,7 +7,7 @@
 
 name: 'MCXA154'
 display_name: 'Arm® Cortex®-M33 microcontroller with multiple high-speed connectivity, operating up to 96MHz, serial peripherals, timers, analog and low power consumption.'
-overview: 'MCXA series MCUs expands the MCX Arm® Cortex®-M33 product offerings with multiple high-speed connectivity, operating up to 96 MHz, serial peripherals, timers, analog and low power consumption.'
+overview: '<p>MCXA series MCUs expands the MCX Arm® Cortex®-M33 product offerings with multiple high-speed connectivity, operating up to 96 MHz, serial peripherals, timers, analog and low power consumption.<br></p>'
 href: ''
 image: ''
 vendor: 'NXP'

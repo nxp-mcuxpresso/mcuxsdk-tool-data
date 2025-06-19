@@ -7,11 +7,10 @@
 
 name: 'FRDM-MCXW71'
 display_name: 'MCX W71 FRDM Development Board for Bluetooth LE, IEEE 802.15.4, Thread, Matter and Zigbee'
-overview: 'The FRDM-MCXW71 is a compact and scalable development board for rapid prototyping of the MCX W71 wireless MCU. It offers easy evaluation of the MCX W71''s multiprotocol wireless support for Bluetooth LE, Zigbee, Thread and Matter. The board includes an on-board MCU-Link debugger, industry standard headers for easy access to the MCU’s I/Os, an accelerometer, a light sensor and external SPI flash memory. The MCXW71 highly sensitive, optimized 2.4 GHz radio features a PCB meandered-antenna which can be bypassed to test via µ-RF connection. Multiple add-on boards are available through NXP''s Expansion Board Hub  while the Application Code Hub  provides ready to use software examples as part of the MCUXpresso Developer Experience.'
+overview: '<p>The FRDM-MCXW71 is a compact and scalable development board for rapid prototyping of the MCX W71 wireless MCU. It offers easy evaluation of the MCX W71''s multiprotocol wireless support for Bluetooth LE, Zigbee, Thread and Matter. </p><p>The board includes an on-board MCU-Link debugger, industry standard headers for easy access to the MCU’s I/Os, an accelerometer, a light sensor and external SPI flash memory.&nbsp;</p><p>The MCXW71 highly sensitive, optimized 2.4 GHz radio features a PCB meandered-antenna which can be bypassed to test via µ-RF connection.&nbsp;</p><p>Multiple add-on boards are available through NXP''s Expansion Board Hub&nbsp; while the Application Code Hub&nbsp; provides ready to use software examples as part of the MCUXpresso Developer Experience.</p>'
 href: ''
 image: 'tool_data/boards/images/frdmmcxw71.png'
 parts: 
   - device: 'MCXW716C'
     part_name: 'MCXW716CMFTA'
-kits: 
-  - id: 'frdmmcxw71_a8974'
+kits: [ ]

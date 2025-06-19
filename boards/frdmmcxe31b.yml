@@ -7,7 +7,7 @@
 
 name: 'FRDM-MCXE31B'
 display_name: 'FRDM-MCXE31B'
-overview: 'The NXP FRDM-MCXE31B is a development board for the MCXE31 160 MHz Arm® Cortex-M7 microcontroller.'
+overview: '<p>The NXP FRDM-MCXE31B is a development board for the MCXE31 160 MHz Arm® Cortex-M7 microcontroller.</p>'
 href: ''
 image: 'tool_data/boards/images/frdmmcxe31b.png'
 parts: 

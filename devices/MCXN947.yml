@@ -7,7 +7,7 @@
 
 name: 'MCXN947'
 display_name: '150 MHz Arm® Dual Cortex-M33 TrustZone® microcontroller for Industrial and Consumer IoT Applications.'
-overview: 'The Nxx series microcontrollers combine the Arm® Cortex®-M33 TrustZone® core with Coolflux DSP, PowerQuad DSP Co processor and multiple high-speed connectivity options running at 150 MHz. Advanced Serial peripherals, timers, high precision analog and state of the art security features, the user code, data and communications are secured. All Nxx families include Dual bank flash which support execute while update from internal flash. The Nxx series also support large external serial memory configurations.'
+overview: '<p>The Nxx series microcontrollers combine the Arm® Cortex®-M33 TrustZone® core with Coolflux DSP, PowerQuad DSP&nbsp;Co processor and multiple high-speed connectivity options running at 150 MHz. Advanced Serial peripherals, timers, high&nbsp;precision analog and state of the art security features, the user code, data and communications are secured. All Nxx families&nbsp;include Dual bank flash which support execute while update from internal flash. The Nxx series also support large external serial&nbsp;memory configurations.</p>'
 href: ''
 image: ''
 vendor: 'NXP'

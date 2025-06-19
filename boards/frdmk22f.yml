@@ -13,12 +13,4 @@ image: 'tool_data/boards/images/frdmk22f.png'
 parts: 
   - device: 'MK22F51212'
     part_name: 'MK22FN512VLH12'
-kits: 
-  - id: 'frdmk22f_agm01'
-  - id: 'frdmk22f_agmp03'
-  - id: 'frdmk22f_sa9500'
-  - id: 'frdmk22f_om13588'
-  - id: 'frdmk22f_om13790host'
-  - id: 'frdmk22f_a8964'
-  - id: 'frdmk22f_a8974'
-  - id: 'frdmk22f_a8967'
+kits: [ ]

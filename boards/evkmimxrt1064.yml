@@ -13,7 +13,4 @@ image: 'tool_data/boards/images/evkmimxrt1064.png'
 parts: 
   - device: 'MIMXRT1064'
     part_name: 'MIMXRT1064DVL6A'
-kits: 
-  - id: 'evkmimxrt1064_agm01'
-  - id: 'evkmimxrt1064_om13588'
-  - id: 'evkmimxrt1064_om13790host'
+kits: [ ]

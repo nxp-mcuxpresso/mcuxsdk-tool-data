@@ -7,11 +7,10 @@
 
 name: 'FRDM-MCXA156'
 display_name: 'FRDM-MCXA156'
-overview: 'The NXP FRDM-MCXA156 is a development board for the A15X/A14X 96 MHz Arm®  Cortex-M33 microcontroller.'
+overview: '<p>The NXP FRDM-MCXA156 is a development board for the A15X/A14X 96 MHz Arm®&nbsp; Cortex-M33 microcontroller.<br></p>'
 href: ''
 image: 'tool_data/boards/images/frdmmcxa156.png'
 parts: 
   - device: 'MCXA156'
     part_name: 'MCXA156VLL'
-kits: 
-  - id: 'frdmmcxa156_a8974'
+kits: [ ]
