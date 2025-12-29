@@ -10,3 +10,5 @@ recommended_boards:
     recommended_boards: 
       - id: 'imx943evk'
         name: 'IMX943-EVK'
+      - id: 'imx943_orangebox'
+        name: 'IMX943-ORANGEBOX'

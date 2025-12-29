@@ -9,7 +9,7 @@ name: 'FRDM-MCXL255'
 display_name: 'FRDM-MCXL255'
 overview: ''
 href: ''
-image: ''
+image: 'tool_data/boards/images/frdmmcxl255.png'
 parts: 
   - device: 'MCXL255'
     part_name: 'MCXL255VDF'

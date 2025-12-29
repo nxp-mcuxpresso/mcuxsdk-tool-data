@@ -9,7 +9,7 @@ name: 'FRDM-MCXA344'
 display_name: 'FRDM-MCXA344'
 overview: 'The NXP FRDM-MCXA344 is a development board for the MCXA344 180MHz Arm®&amp;nbsp; Cortex-M33 microcontroller.'
 href: ''
-image: ''
+image: 'tool_data/boards/images/frdmmcxa344.png'
 parts: 
   - device: 'MCXA344'
     part_name: 'MCXA344VLL'

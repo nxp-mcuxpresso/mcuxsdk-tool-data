@@ -9,7 +9,7 @@ name: 'FRDM-MCXA266'
 display_name: 'FRDM-MCXA266'
 overview: '<p>The NXP FRDM-MCXA266 is a development board for the MCXA266 240MHz Arm®&nbsp; Cortex-M33 microcontroller.</p>'
 href: ''
-image: ''
+image: 'tool_data/boards/images/frdmmcxa266.png'
 parts: 
   - device: 'MCXA266'
     part_name: 'MCXA266VLQ'
