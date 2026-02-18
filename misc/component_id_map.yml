@@ -163,7 +163,7 @@ driver.common:
 driver.cop:
   config_tool_id: platform.drivers.cop
 driver.crc:
-  config_tool_id: platform.drivers.pn_crc
+  config_tool_id: platform.drivers.crc
 driver.crc_wrapper:
   config_tool_id: platform.drivers.pn_crc_wrapper
 driver.csi:
@@ -342,6 +342,8 @@ driver.esai:
   config_tool_id: platform.drivers.esai
 driver.esai_edma:
   config_tool_id: platform.drivers.esai_edma
+driver.espi:
+  config_tool_id: platform.drivers.espi
 driver.evtg:
   config_tool_id: platform.drivers.evtg
 driver.ewm:
@@ -467,7 +469,7 @@ driver.gpio:
 driver.gpio_1:
   config_tool_id: platform.drivers.gpio_1
 driver.gpt:
-  config_tool_id: platform.drivers.pn_gpt
+  config_tool_id: platform.drivers.gpt
 driver.hashcrypt:
   config_tool_id: platform.drivers.hashcrypt
 driver.hiperface:
@@ -479,7 +481,7 @@ driver.hsadc:
 driver.hscmp:
   config_tool_id: platform.drivers.hscmp
 driver.i2c:
-  config_tool_id: platform.drivers.pn_i2c
+  config_tool_id: platform.drivers.i2c
 driver.i2c_dma:
   config_tool_id: platform.drivers.i2c_dma
 driver.i2c_edma:
@@ -663,7 +665,7 @@ driver.lpspi_edma:
 driver.lptmr:
   config_tool_id: platform.drivers.lptmr
 driver.lpuart:
-  config_tool_id: platform.drivers.pn_lpuart
+  config_tool_id: platform.drivers.lpuart
 driver.lpuart_dma:
   config_tool_id: platform.drivers.lpuart_dma
 driver.lpuart_edma:
@@ -986,6 +988,8 @@ driver.spi:
   config_tool_id: platform.drivers.spi
 driver.spi_dma:
   config_tool_id: platform.drivers.spi_dma
+driver.spi_filter:
+  config_tool_id: platform.drivers.spi_filter
 driver.spi_gpdma:
   config_tool_id: platform.drivers.pn_spi_gpdma
 driver.spifi:
@@ -1028,6 +1032,8 @@ driver.tempsensor:
   config_tool_id: platform.drivers.tempsensor
 driver.tempsensor_1:
   config_tool_id: platform.drivers.tempsensor_1
+driver.tenbaset_phy:
+  config_tool_id: platform.drivers.tenbaset_phy
 driver.tmu:
   config_tool_id: platform.drivers.tmu
 driver.tmu_1:
@@ -1142,6 +1148,8 @@ middleware.SECURE_STORAGE_ITS_STORE_IMPLEMENTATION_FATFS:
   config_tool_id: middleware.secure_storage_its_fatfs
 middleware.SECURE_STORAGE_ITS_STORE_IMPLEMENTATION_LITTLEFS:
   config_tool_id: middleware.secure_storage_its_little_fs
+middleware.SECURE_STORAGE_ITS_STORE_IMPLEMENTATION_SETTINGS:
+  config_tool_id: middleware.secure_storage_its_settings
 middleware.SECURE_STORAGE_ITS_STORE_MODULE:
   config_tool_id: middleware.secure_storage_its_store
 middleware.SECURE_STORAGE_ITS_TRANSFORM_IMPLEMENTATION_AEAD:
