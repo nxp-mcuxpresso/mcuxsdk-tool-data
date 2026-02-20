@@ -8,7 +8,7 @@
 name: 'MC56F83000-EVK'
 display_name: 'Development Board for MC56F83xxx Digital Signal Controllers'
 overview: ''
-href: 'https://www.nxp.com/pip/MC56F83000-EVK'
+href: ''
 image: 'tool_data/boards/images/mc56f83000evk.png'
 parts: 
   - device: 'MC56F83789'

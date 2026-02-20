@@ -8,7 +8,7 @@
 name: 'EVK-MIMXRT685'
 display_name: 'i.MX RT600 Evaluation Kit'
 overview: 'The NXP IMXRT685-EVKB is a development board for the i.MX RT600 Crossover MCU with Arm® Cortex®-M33 and DSP Cores.'
-href: 'https://www.nxp.com/pip/MIMXRT685-EVK'
+href: ''
 image: 'tool_data/boards/images/evkmimxrt685.png'
 parts: 
   - device: 'MIMXRT685S'

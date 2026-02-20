@@ -7,7 +7,7 @@
 
 name: 'FRDM-MCXA577'
 display_name: 'FRDM-MCXA577'
-overview: '<p>The NXP FRDM-MCXA577 is a development board for the MCXA577 200MHz Arm®&nbsp; Cortex-M33 microcontroller.</p>'
+overview: '<p>The NXP FRDM-MCXA577 is a development board for the MCXA577 240MHz Arm®&nbsp; Cortex-M33 microcontroller.</p>'
 href: ''
 image: ''
 parts: 
