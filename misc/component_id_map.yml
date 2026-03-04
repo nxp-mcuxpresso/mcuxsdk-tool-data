@@ -988,8 +988,6 @@ driver.spi:
   config_tool_id: platform.drivers.spi
 driver.spi_dma:
   config_tool_id: platform.drivers.spi_dma
-driver.spi_filter:
-  config_tool_id: platform.drivers.spi_filter
 driver.spi_gpdma:
   config_tool_id: platform.drivers.pn_spi_gpdma
 driver.spifi:
