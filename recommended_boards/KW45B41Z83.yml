@@ -10,3 +10,5 @@ recommended_boards:
     recommended_boards: 
       - id: 'kw45b41zevk'
         name: 'KW45B41Z-EVK'
+      - id: 'kw45b41zloc'
+        name: 'KW45B41Z-LOC'

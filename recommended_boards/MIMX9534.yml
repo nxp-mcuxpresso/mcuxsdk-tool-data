@@ -12,5 +12,3 @@ recommended_boards:
         name: 'IMX95LP4XEVK-15'
       - id: 'imx95lpd5evk19'
         name: 'IMX95LPD5EVK-19'
-      - id: 'imx95verdinevk'
-        name: 'IMX95VERDINEVK'

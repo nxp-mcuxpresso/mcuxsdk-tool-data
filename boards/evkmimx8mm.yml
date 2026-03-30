@@ -1,5 +1,5 @@
 #
-# Copyright 2025 NXP
+# Copyright 2026 NXP
 #
 # SPDX-License-Identifier: BSD-3-Clause
 #
@@ -8,7 +8,7 @@
 name: 'EVK-MIMX8MM'
 display_name: 'Evaluation Kit for the i.MX 8M Mini Applications Processor'
 overview: 'The i.MX 8M Mini family of boards provides a powerful and flexible development system for NXP®''s Cortex-M4 MCUs.'
-href: 'https://www.nxp.com/pip/8MMINILPD4-EVK'
+href: ''
 image: 'tool_data/boards/images/evkmimx8mm.png'
 parts: 
   - device: 'MIMX8MM6'

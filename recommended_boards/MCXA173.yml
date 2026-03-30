@@ -8,5 +8,5 @@
 recommended_boards: 
   - full_name: 'MCXA173'
     recommended_boards: 
-      - id: 'frdmmcxa344'
-        name: 'FRDM-MCXA344'
+      - id: 'frdmmcxa174'
+        name: 'FRDM-MCXA174'
