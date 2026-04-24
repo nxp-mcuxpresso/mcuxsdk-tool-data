@@ -9,8 +9,8 @@ name: 'FRDM-MCXC162'
 display_name: 'frdmmcxc162'
 overview: '<p>The FRDM-MCXC162 is supported by a range of NXP® and third-party development software.</p>'
 href: ''
-image: ''
+image: 'tool_data/boards/images/frdmmcxc162.png'
 parts: 
   - device: 'MCXC162'
-    part_name: 'MCXC162VLF'
+    part_name: 'MCXC162VFT'
 kits: [ ]
