@@ -244,8 +244,12 @@ driver.dsc_ewm:
   config_tool_id: platform.drivers.dsc_ewm
 driver.dsc_flash:
   config_tool_id: platform.drivers.dsc_flash
+driver.dsc_flash_fmu:
+  config_tool_id: platform.drivers.dsc_flash_fmu
 driver.dsc_flexcan:
   config_tool_id: platform.drivers.dsc_flexcan
+driver.dsc_freqme:
+  config_tool_id: platform.drivers.dsc_freqme
 driver.dsc_gpio:
   config_tool_id: platform.drivers.dsc_gpio
 driver.dsc_i2c:
@@ -254,10 +258,14 @@ driver.dsc_i2c_dma:
   config_tool_id: platform.drivers.dsc_i2c_dma
 driver.dsc_i2c_edma:
   config_tool_id: platform.drivers.dsc_i2c_edma
+driver.dsc_inputmux:
+  config_tool_id: platform.drivers.dsc_inputmux
 driver.dsc_lpi2c:
   config_tool_id: platform.drivers.dsc_lpi2c
 driver.dsc_lpi2c_edma:
   config_tool_id: platform.drivers.dsc_lpi2c_edma
+driver.dsc_mbc:
+  config_tool_id: platform.drivers.dsc_mbc
 driver.dsc_mcm:
   config_tool_id: platform.drivers.dsc_mcm
 driver.dsc_mscan:
