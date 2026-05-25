@@ -6,6 +6,10 @@
 
 component.eeprom_emulation:
   config_tool_id: component.eeprom_emulation
+component.eeprom_emulation_flashapi_k4:
+  config_tool_id: component.eeprom_emulation_flashapi_k4
+component.eeprom_emulation_k4:
+  config_tool_id: component.eeprom_emulation_k4
 component.eth_phy_common:
   config_tool_id: driver.phy-common
 component.mpi_loader:
@@ -1426,6 +1430,8 @@ middleware.metering.meterliblp_no_mmau:
   config_tool_id: middleware.metering_meterliblp_no_mmau
 middleware.motor_control.mcaa_cm0:
   config_tool_id: middleware.motor_control.mcaa_cm0
+middleware.motor_control.mcaa_cm23:
+  config_tool_id: middleware.motor_control.mcaa_cm23
 middleware.motor_control.mcaa_cm33f:
   config_tool_id: middleware.motor_control.mcaa_cm33f
 middleware.motor_control.mcaa_cm33nodsp:
@@ -1458,6 +1464,8 @@ middleware.pngdec:
   config_tool_id: middleware.pngdec
 middleware.rtcesl.cm0:
   config_tool_id: middleware.rtcesl.cm0p
+middleware.rtcesl.cm23:
+  config_tool_id: middleware.rtcesl.cm23
 middleware.rtcesl.cm33f:
   config_tool_id: middleware.rtcesl.cm33f
 middleware.rtcesl.cm33nodsp:
