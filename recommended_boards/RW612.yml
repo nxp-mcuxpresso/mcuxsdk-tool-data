@@ -10,5 +10,3 @@ recommended_boards:
     recommended_boards: 
       - id: 'frdmrw612'
         name: 'FRDM-RW612'
-      - id: 'rdrw612bga'
-        name: 'RD-RW612-BGA'
