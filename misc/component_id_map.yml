@@ -116,6 +116,8 @@ driver.cmsis_ecspi:
   config_tool_id: platform.drivers.ecspi_cmsis
 driver.cmsis_enet:
   config_tool_id: platform.drivers.enet_cmsis
+driver.cmsis_enet_phy:
+  config_tool_id: platform.drivers.enet_phy_cmsis
 driver.cmsis_flexcomm_i2c:
   config_tool_id: platform.drivers.flexcomm_i2c_cmsis
 driver.cmsis_flexcomm_spi:
@@ -142,6 +144,10 @@ driver.cmsis_lpspi:
   config_tool_id: platform.drivers.lpspi_cmsis
 driver.cmsis_lpuart:
   config_tool_id: platform.drivers.lpuart_cmsis
+driver.cmsis_mcx_enet:
+  config_tool_id: platform.drivers.mcx_enet_cmsis
+driver.cmsis_mcx_flash:
+  config_tool_id: platform.drivers.gpio_mcx_flash
 driver.cmsis_spi:
   config_tool_id: platform.drivers.spi_cmsis
 driver.cmsis_uart:
@@ -438,6 +444,8 @@ driver.flexio_uart_dma:
   config_tool_id: platform.drivers.flexio_uart_dma
 driver.flexio_uart_edma:
   config_tool_id: platform.drivers.flexio_uart_edma
+driver.flexpwm:
+  config_tool_id: platform.drivers.flexpwm
 driver.flexram:
   config_tool_id: platform.drivers.flexram
 driver.flexspi:
@@ -481,7 +489,7 @@ driver.gpio:
 driver.gpio_1:
   config_tool_id: platform.drivers.gpio_1
 driver.gpt:
-  config_tool_id: platform.drivers.gpt
+  config_tool_id: platform.drivers.pn_gpt
 driver.hashcrypt:
   config_tool_id: platform.drivers.hashcrypt
 driver.hiperface:
@@ -677,7 +685,7 @@ driver.lpspi_edma:
 driver.lptmr:
   config_tool_id: platform.drivers.lptmr
 driver.lpuart:
-  config_tool_id: platform.drivers.lpuart
+  config_tool_id: platform.drivers.pn_lpuart
 driver.lpuart_dma:
   config_tool_id: platform.drivers.lpuart_dma
 driver.lpuart_edma:
@@ -1252,6 +1260,10 @@ middleware.mcu-boot.MIMXRT1064_sources:
   config_tool_id: middleware.mcu-boot.MIMXRT1064_sources
 middleware.mcu-boot.MIMXRT1064_startup:
   config_tool_id: middleware.mcu-boot.MIMXRT1064_startup
+middleware.mcu-boot.MIMXRT1152_sources:
+  config_tool_id: middleware.mcu-boot.MIMXRT1152_sources
+middleware.mcu-boot.MIMXRT1152_startup:
+  config_tool_id: middleware.mcu-boot.MIMXRT1152_startup
 middleware.mcu-boot.MIMXRT1166_sources:
   config_tool_id: middleware.mcu-boot.MIMXRT1166_sources
 middleware.mcu-boot.MIMXRT1166_startup:
