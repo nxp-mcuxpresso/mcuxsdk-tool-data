@@ -10,3 +10,5 @@ recommended_boards:
     recommended_boards: 
       - id: 'frdmmcxn947'
         name: 'FRDM-MCXN947'
+      - id: 'mcxn9xxevk'
+        name: 'MCX-N9XX-EVK'
