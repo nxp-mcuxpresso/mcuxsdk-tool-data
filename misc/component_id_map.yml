@@ -274,6 +274,10 @@ driver.dsc_lpi2c:
   config_tool_id: platform.drivers.dsc_lpi2c
 driver.dsc_lpi2c_edma:
   config_tool_id: platform.drivers.dsc_lpi2c_edma
+driver.dsc_lpspi:
+  config_tool_id: platform.drivers.dsc_lpspi
+driver.dsc_mau:
+  config_tool_id: platform.drivers.dsc_mau
 driver.dsc_mbc:
   config_tool_id: platform.drivers.dsc_mbc
 driver.dsc_mcm:
@@ -724,6 +728,8 @@ driver.mipi_csi2rx_dwc:
   config_tool_id: platform.drivers.mipi_csi2rx_dwc
 driver.mipi_csi2rx_dwc_1:
   config_tool_id: platform.drivers.mipi_csi2rx_dwc_1
+driver.mipi_csi2rx_rambus:
+  config_tool_id: platform.drivers.mipi_csi2rx_rambus
 driver.mipi_dsi:
   config_tool_id: platform.drivers.mipi_dsi
 driver.mipi_dsi2_dwc:
@@ -816,6 +822,8 @@ driver.pngdec:
   config_tool_id: platform.drivers.pngdec
 driver.port:
   config_tool_id: platform.drivers.port
+driver.powercon:
+  config_tool_id: platform.drivers.powercon
 driver.powerquad:
   config_tool_id: platform.drivers.powerquad
 driver.powerquad_cmsis:
@@ -904,6 +912,8 @@ driver.rng_1:
   config_tool_id: platform.drivers.rng_1
 driver.rnga:
   config_tool_id: platform.drivers.rnga
+driver.rt2k_pmu:
+  config_tool_id: platform.drivers.rt2k_pmu
 driver.rtc:
   config_tool_id: platform.drivers.rtc
 driver.rtc_1:
