@@ -10,3 +10,5 @@ recommended_boards:
     recommended_boards: 
       - id: 'frdmmcxa346'
         name: 'FRDM-MCXA346'
+      - id: 'hvpmcxa346'
+        name: 'HVP-MCXA346'
