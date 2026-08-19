@@ -246,6 +246,8 @@ driver.dsc_dmamux:
   config_tool_id: platform.drivers.dsc_dmamux
 driver.dsc_edma:
   config_tool_id: platform.drivers.dsc_edma
+driver.dsc_edma3:
+  config_tool_id: platform.drivers.dsc_edma3
 driver.dsc_eqdc:
   config_tool_id: platform.drivers.dsc_eqdc
 driver.dsc_evtg:
@@ -314,6 +316,8 @@ driver.dspi_dma:
   config_tool_id: platform.drivers.dspi_dma
 driver.dspi_edma:
   config_tool_id: platform.drivers.dspi_edma
+driver.dual_adc:
+  config_tool_id: platform.drivers.dual_adc
 driver.eMIOS:
   config_tool_id: platform.drivers.eMIOS
 driver.easrc:
@@ -330,6 +334,8 @@ driver.edma:
   config_tool_id: platform.drivers.edma
 driver.edma4:
   config_tool_id: platform.drivers.edma4
+driver.edma_unified:
+  config_tool_id: platform.drivers.edma_unified
 driver.eeprom:
   config_tool_id: platform.drivers.eeprom
 driver.eim:
@@ -1462,6 +1468,8 @@ middleware.motor_control.mcaa_cm4f:
   config_tool_id: middleware.motor_control.mcaa_cm4f
 middleware.motor_control.mcaa_cm7f:
   config_tool_id: middleware.motor_control.mcaa_cm7f
+middleware.motor_control.mcaa_cm85f:
+  config_tool_id: middleware.motor_control.mcaa_cm85f
 middleware.motor_control.mcaa_dsp56800ef:
   config_tool_id: middleware.motor_control.mcaa_dsp56800ef
 middleware.motor_control.mcaa_dsp56800ex:
@@ -1496,6 +1504,8 @@ middleware.rtcesl.cm4f:
   config_tool_id: middleware.rtcesl.cm4f
 middleware.rtcesl.cm7f:
   config_tool_id: middleware.rtcesl.cm7f
+middleware.rtcesl.cm85f:
+  config_tool_id: middleware.rtcesl.cm85f
 middleware.rtcesl.dsp56800ef:
   config_tool_id: middleware.rtcesl.dsp56800ef
 middleware.rtcesl.dsp56800ex:
