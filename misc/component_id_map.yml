@@ -173,7 +173,7 @@ driver.common:
 driver.cop:
   config_tool_id: platform.drivers.cop
 driver.crc:
-  config_tool_id: platform.drivers.crc
+  config_tool_id: platform.drivers.pn_crc
 driver.crc_wrapper:
   config_tool_id: platform.drivers.pn_crc_wrapper
 driver.csi:
@@ -270,6 +270,8 @@ driver.dsc_i2c_dma:
   config_tool_id: platform.drivers.dsc_i2c_dma
 driver.dsc_i2c_edma:
   config_tool_id: platform.drivers.dsc_i2c_edma
+driver.dsc_i3c:
+  config_tool_id: platform.drivers.dsc_i3c
 driver.dsc_inputmux:
   config_tool_id: platform.drivers.dsc_inputmux
 driver.dsc_lpi2c:
@@ -454,8 +456,6 @@ driver.flexio_uart_dma:
   config_tool_id: platform.drivers.flexio_uart_dma
 driver.flexio_uart_edma:
   config_tool_id: platform.drivers.flexio_uart_edma
-driver.flexpwm:
-  config_tool_id: platform.drivers.flexpwm
 driver.flexram:
   config_tool_id: platform.drivers.flexram
 driver.flexspi:
@@ -499,7 +499,7 @@ driver.gpio:
 driver.gpio_1:
   config_tool_id: platform.drivers.gpio_1
 driver.gpt:
-  config_tool_id: platform.drivers.pn_gpt
+  config_tool_id: platform.drivers.gpt
 driver.hashcrypt:
   config_tool_id: platform.drivers.hashcrypt
 driver.hiperface:
@@ -511,7 +511,7 @@ driver.hsadc:
 driver.hscmp:
   config_tool_id: platform.drivers.hscmp
 driver.i2c:
-  config_tool_id: platform.drivers.i2c
+  config_tool_id: platform.drivers.pn_i2c
 driver.i2c_dma:
   config_tool_id: platform.drivers.i2c_dma
 driver.i2c_edma:
@@ -695,7 +695,7 @@ driver.lpspi_edma:
 driver.lptmr:
   config_tool_id: platform.drivers.lptmr
 driver.lpuart:
-  config_tool_id: platform.drivers.pn_lpuart
+  config_tool_id: platform.drivers.lpuart
 driver.lpuart_dma:
   config_tool_id: platform.drivers.lpuart_dma
 driver.lpuart_edma:
@@ -788,6 +788,8 @@ driver.ocotp:
   config_tool_id: platform.drivers.ocotp
 driver.opamp:
   config_tool_id: platform.drivers.opamp
+driver.opamp_1:
+  config_tool_id: platform.drivers.opamp_1
 driver.opamp_fast:
   config_tool_id: platform.drivers.opamp_fast
 driver.ostimer:
@@ -806,6 +808,8 @@ driver.pdm_edma:
   config_tool_id: platform.drivers.pdm_edma
 driver.pdm_sdma:
   config_tool_id: platform.drivers.pdm_sdma
+driver.phd:
+  config_tool_id: platform.drivers.phd
 driver.pint:
   config_tool_id: platform.drivers.pint
 driver.pit:
@@ -913,7 +917,7 @@ driver.rgpio:
 driver.rit:
   config_tool_id: platform.drivers.rit
 driver.rng:
-  config_tool_id: platform.drivers.rng
+  config_tool_id: platform.drivers.pn_rng
 driver.rng_1:
   config_tool_id: platform.drivers.rng_1
 driver.rnga:
@@ -1141,7 +1145,7 @@ driver.wdog32:
 driver.wdog8:
   config_tool_id: platform.drivers.wdog8
 driver.wdt:
-  config_tool_id: platform.drivers.wdt
+  config_tool_id: platform.drivers.pn_wdt
 driver.wkpu:
   config_tool_id: platform.drivers.wkpu
 driver.wkt:
