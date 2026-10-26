@@ -60,6 +60,8 @@ driver.asrc:
   config_tool_id: platform.drivers.asrc
 driver.asrc_edma:
   config_tool_id: platform.drivers.asrc_edma
+driver.audmix:
+  config_tool_id: platform.drivers.audmix
 driver.bbnsm:
   config_tool_id: platform.drivers.bbnsm
 driver.bctu:
@@ -173,7 +175,7 @@ driver.common:
 driver.cop:
   config_tool_id: platform.drivers.cop
 driver.crc:
-  config_tool_id: platform.drivers.pn_crc
+  config_tool_id: platform.drivers.crc
 driver.crc_wrapper:
   config_tool_id: platform.drivers.pn_crc_wrapper
 driver.csi:
@@ -244,6 +246,8 @@ driver.dsc_dma:
   config_tool_id: platform.drivers.dsc_dma
 driver.dsc_dmamux:
   config_tool_id: platform.drivers.dsc_dmamux
+driver.dsc_dual_adc:
+  config_tool_id: platform.drivers.dsc_dual_adc
 driver.dsc_edma:
   config_tool_id: platform.drivers.dsc_edma
 driver.dsc_edma3:
@@ -308,6 +312,8 @@ driver.dsc_rgpio:
   config_tool_id: platform.drivers.dsc_rgpio
 driver.dsc_sim:
   config_tool_id: platform.drivers.dsc_sim
+driver.dsc_spc:
+  config_tool_id: platform.drivers.dsc_spc
 driver.dsc_xbara:
   config_tool_id: platform.drivers.dsc_xbara
 driver.dsc_xbarb:
@@ -499,7 +505,7 @@ driver.gpio:
 driver.gpio_1:
   config_tool_id: platform.drivers.gpio_1
 driver.gpt:
-  config_tool_id: platform.drivers.gpt
+  config_tool_id: platform.drivers.pn_gpt
 driver.hashcrypt:
   config_tool_id: platform.drivers.hashcrypt
 driver.hiperface:
@@ -524,6 +530,10 @@ driver.i3c_dma:
   config_tool_id: platform.drivers.i3c_dma
 driver.i3c_edma:
   config_tool_id: platform.drivers.i3c_edma
+driver.i3c_msg_dma:
+  config_tool_id: platform.drivers.i3c_msg_dma
+driver.i3c_msg_port_edma:
+  config_tool_id: platform.drivers.i3c_msg_port_edma
 driver.iap:
   config_tool_id: platform.drivers.iap
 driver.iap1:
@@ -917,7 +927,7 @@ driver.rgpio:
 driver.rit:
   config_tool_id: platform.drivers.rit
 driver.rng:
-  config_tool_id: platform.drivers.pn_rng
+  config_tool_id: platform.drivers.rng
 driver.rng_1:
   config_tool_id: platform.drivers.rng_1
 driver.rnga:
@@ -1145,7 +1155,7 @@ driver.wdog32:
 driver.wdog8:
   config_tool_id: platform.drivers.wdog8
 driver.wdt:
-  config_tool_id: platform.drivers.pn_wdt
+  config_tool_id: platform.drivers.wdt
 driver.wkpu:
   config_tool_id: platform.drivers.wkpu
 driver.wkt:
@@ -1214,6 +1224,8 @@ middleware.dhara.dhara_ecc_bch:
   config_tool_id: middleware.dhara.dhara_ecc_bch
 middleware.dhara.dhara_ecc_hamming:
   config_tool_id: middleware.dhara.dhara_ecc_hamming
+middleware.flexgpu:
+  config_tool_id: middleware.flexgpu
 middleware.libjpeg:
   config_tool_id: middleware.libjpeg
 middleware.lin_stack:
