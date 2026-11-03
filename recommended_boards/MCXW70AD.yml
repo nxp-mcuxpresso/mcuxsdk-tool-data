@@ -10,5 +10,3 @@ recommended_boards:
     recommended_boards: 
       - id: 'frdmmcxw70'
         name: 'FRDM-MCXW70'
-      - id: 'mcxw70loc'
-        name: 'MCXW70-LOC'

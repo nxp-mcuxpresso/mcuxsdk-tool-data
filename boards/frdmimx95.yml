@@ -12,5 +12,5 @@ href: ''
 image: ''
 parts: 
   - device: 'MIMX9596'
-    part_name: 'MIMX9596CVTXN'
+    part_name: 'MIMX9596AVZXN'
 kits: [ ]

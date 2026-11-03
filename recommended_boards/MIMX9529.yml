@@ -8,7 +8,5 @@
 recommended_boards: 
   - full_name: 'MIMX9529xxxxx'
     recommended_boards: 
-      - id: 'frdmimx952'
-        name: 'FRDM-IMX952'
       - id: 'imx952evk'
         name: 'IMX952-EVK'
