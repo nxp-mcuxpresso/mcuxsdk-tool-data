@@ -8,6 +8,8 @@
 recommended_boards: 
   - full_name: 'RW612'
     recommended_boards: 
+      - id: 'frdmrw610fml'
+        name: 'FRDM-RW610FML'
       - id: 'frdmrw612'
         name: 'FRDM-RW612'
       - id: 'rdrw612bga'

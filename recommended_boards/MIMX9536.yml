@@ -8,8 +8,6 @@
 recommended_boards: 
   - full_name: 'MIMX9536xxxxN'
     recommended_boards: 
-      - id: 'imx95lp4xevk15'
-        name: 'IMX95LP4XEVK-15'
       - id: 'imx95lpd5evk19'
         name: 'IMX95LPD5EVK-19'
   - full_name: 'MIMX9536xxxxQ'

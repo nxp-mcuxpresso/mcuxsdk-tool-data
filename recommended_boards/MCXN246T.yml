@@ -8,5 +8,5 @@
 recommended_boards: 
   - full_name: 'MCXN246T'
     recommended_boards: 
-      - id: 'frdmmcxn947'
-        name: 'FRDM-MCXN947'
+      - id: 'frdmmcxn947t'
+        name: 'FRDM-MCXN947T'

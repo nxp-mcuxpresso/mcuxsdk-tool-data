@@ -8,5 +8,7 @@
 recommended_boards: 
   - full_name: 'MIMXRT798S'
     recommended_boards: 
+      - id: 'frdmimxrt700'
+        name: 'FRDM-IMXRT700'
       - id: 'mimxrt700evk'
         name: 'MIMXRT700-EVK'

@@ -10,3 +10,5 @@ recommended_boards:
     recommended_boards: 
       - id: 'frdmkw43'
         name: 'FRDM-KW43'
+      - id: 'kw43loc'
+        name: 'KW43-LOC'
